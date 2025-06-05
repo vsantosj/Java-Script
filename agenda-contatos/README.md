@@ -1,5 +1,5 @@
 # 📒Desafio: Agenda de Contatos
-
+<div>
 <p>Esta é uma aplicação web simples de agenda de contatos desenvolvida como desafio prático. Seu objetivo é permitir o cadastro e visualização de contatos de forma rápida e intuitiva.</p>
 
 ## 🧠 Como Funciona
@@ -32,4 +32,8 @@ Ao preencher o formulário e clicar em Cadastrar, uma nova linha com os dados in
 ## 🌐 Acesse Agora
 Se preferir, você também pode usar a agenda direto pelo navegador, sem baixar nada:
 
-🔗 Acesse aqui: https://seu-link.vercel.app
+🔗 Acesse aqui: [https://seu-link.vercel.app](https://java-script-gilt.vercel.app/)
+</div>
+<div align="center">
+  <p>💻 Desenvolvido por <strong>Viviane Santos</strong></p>
+</div>

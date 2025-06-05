@@ -31,9 +31,18 @@ Ao preencher o formulário e clicar em Cadastrar, uma nova linha com os dados in
 
 ## 🌐 Acesse Agora
 Se preferir, você também pode usar a agenda direto pelo navegador, sem baixar nada:
-
-🔗 Acesse aqui: [https://seu-link.vercel.app](https://java-script-gilt.vercel.app/)
+  <p>
+    <a href="https://java-script-gilt.vercel.app/" target="_blank">
+      🔗 Clique aqui para testar a aplicação.
+    </a>
+  </p>
 </div>
 <div align="center">
   <p>💻 Desenvolvido por <strong>Viviane Santos</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/vsantosj" target="_blank">
+      🔗 LinkedIn
+    </a>
+  </p>
 </div>
+

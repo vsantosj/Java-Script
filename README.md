@@ -20,3 +20,11 @@
 <p>ℹ️ Cada pasta contém um README.md próprio com instruções detalhadas, objetivos e descrição específica do exercício.</p>
 
 </div>
+<div align="center">
+  <p>💻 Desenvolvido por <strong>Viviane Santos</strong></p>
+  <p>
+    <a href="https://www.linkedin.com/in/vsantosj" target="_blank">
+      🔗 LinkedIn
+    </a>
+  </p>
+</div>

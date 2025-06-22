@@ -14,3 +14,5 @@
 - JQuery – Lógica de funcionamento (interação e manipulação do DOM)
 
 
+## 🎥 Demonstração
+![lista-tarefas](https://github.com/user-attachments/assets/e3dc2485-c493-4bbd-ae36-01835dca2d23)

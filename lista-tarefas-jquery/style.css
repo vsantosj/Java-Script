@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #d3d7e4cb;
+    font-size: 1.15rem;
+}
+header{
+
+    display: flex;
+    padding:2rem;
+    justify-content: center;
+
+}
+h1{
+    font-size: 2rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+input, 
+button{
+    padding: 0.5rem;
+
+}
+
+button{
+    background-color: #57bea5cb;
+    border-radius: 0.4rem;
+}
+ol li,
+button{
+    cursor: pointer;
+}
+.tachar{
+    text-decoration: line-through;
+}
+footer{
+    display: flex;
+    justify-content:center;
+    gap:1rem; 
+    font-size: 1rem;
+    position:absolute;
+    width: 100%;
+    bottom: 0px;
+    padding: 1rem ;
+}

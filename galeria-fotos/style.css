@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #5f27cd;
+    padding: 1rem;
+    border-bottom: 1rem solid #341f97;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    color: #fff;
+}
+
+header button{
+    margin-left: 1rem;
+    padding: 0.5rem;
+}
+form{
+    background-color: #c8d6e5;
+    padding: 1.5rem 0;
+    text-align: center;
+    display: none;
+}
+
+form h2{
+    margin-bottom: 1rem;
+}
+
+input, 
+button{
+    padding: 0.5rem;
+}
+
+button{
+    background-color: #009432;
+    border-radius: 0.4rem;
+    font-weight: bold;
+    color: #fff;
+    cursor: pointer;
+}
+
+#button-cancelar{
+    background-color: red;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+ul li{
+    max-width: 25%;
+    list-style: none; /*remover circulos de decoração  */
+    position: relative;
+    max-height: 17.5rem;
+    overflow-y: hidden; /* tudo que passar do li ele esconde*/
+}
+
+ul li img{
+    width: 100%;
+}
+
+.overlay-image-link{
+    padding: 1rem;
+    background-color: rgba(0,0,0,0.7);
+    position: absolute; /*para não vazar do elemento pai, o pai deve estar como position erlative*/
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    opacity: 0;
+    transition: all ease 0.5s;
+}
+
+.overlay-image-link a{
+    color: #fff;
+    text-decoration: none;
+
+}
+
+/*Quand mouse passar no elemento ul li ele estiliza o elemento .overlay-image-link */
+ul li:hover .overlay-image-link {
+    opacity: 1;
+}
